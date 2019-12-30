@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1514140574 source:d:\it\proiecte\cursuri\main.cpp
+	<iostream>
+
+1577650465 source:d:\it\proiecte\cursuri\src\persoana.cpp
+	"Persoana.h"
+	<iostream>
+
+1577650392 d:\it\proiecte\cursuri\include\persoana.h
+	<string>
+
+1577651499 source:d:\it\proiecte\cursuri\src\mentor.cpp
+	"Mentor.h"
+
+1577649873 d:\it\proiecte\cursuri\include\mentor.h
+	<Persoana.h>
+
+1577652426 source:d:\it\proiecte\cursuri\src\cursant.cpp
+	"Cursant.h"
+
+1577652426 d:\it\proiecte\cursuri\include\cursant.h
+	<Persoana.h>
+
