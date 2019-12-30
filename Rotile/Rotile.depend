@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1577646841 source:d:\it\proiecte\rotile\main.cpp
+	<iostream>
+	"Masina.h"
+
+1576937997 source:d:\it\proiecte\rotile\src\janta.cpp
+	"Janta.h"
+
+1576937997 d:\it\proiecte\rotile\include\janta.h
+
+1576938060 source:d:\it\proiecte\rotile\src\anvelopa.cpp
+	"Anvelopa.h"
+	<iostream>
+
+1576938060 d:\it\proiecte\rotile\include\anvelopa.h
+	<string>
+
+1577647306 source:d:\it\proiecte\rotile\src\masina.cpp
+	"Masina.h"
+
+1577567891 d:\it\proiecte\rotile\include\masina.h
+	"Roata.h"
+	<iostream>
+	<string>
+
+1576937920 d:\it\proiecte\rotile\include\roata.h
+	"Janta.h"
+	"Anvelopa.h"
+
+1576937920 source:d:\it\proiecte\rotile\src\roata.cpp
+	"Roata.h"
+
